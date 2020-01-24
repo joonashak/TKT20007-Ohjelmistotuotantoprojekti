@@ -6,13 +6,13 @@ ota mallia [täältä](https://github.com/ohtu-ohjaajat/OhTuHistory/blob/master/
 
 ### Ryhmien repot
 
--
+- Projektiryhmäytymistyökalu: https://github.com/UniversityOfHelsinkiCS/prkl
 
 ### Backlogit
 
--
+- Projektiryhmäytymistyökalu: https://github.com/UniversityOfHelsinkiCS/prkl/projects/1
 
 
 ### Tuotantosovellukset
 
--
+- Projektiryhmäytymistyökalu: TBA
